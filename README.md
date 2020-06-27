@@ -19,8 +19,13 @@
 
 Python 3.6
 [PyTorch 1.5](https://pytorch.org/)
+
 [transformers](https://github.com/huggingface/transformers) (работа с предобученными языковыми моделями)
+
 [faiss](https://github.com/facebookresearch/faiss) (поиск ближайших векторов на GPU)
+
 [laser_wrapper](https://github.com/sopilnyak/laser_wrapper) (обертка над эмбеддингами [LASER](https://github.com/facebookresearch/LASER))
+
 [DeepPavlov](https://github.com/deepmipt/DeepPavlov) (сегментатор)
+
 [newspaper3k](https://github.com/codelucas/newspaper) (scraping новостных статей)
